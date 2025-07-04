@@ -190,7 +190,7 @@ docker run -it --rm --gpus all mlcd_seg bash
 ## Citations
 ```
 @misc{mlcdseg_wukun,
-  author = {Wu, Kun and Xie, Yin and Jie, Yu and Zhou, Xinyu and An, Xiang, Feng, Ziyong and Deng, Jiankang},
+  author = {Wu, Kun and Xie, Yin and Jie, Yu and Wenkang, Zhang and Zhou, Xinyu and An, Xiang, Feng, Ziyong and Deng, Jiankang},
   title = {MLCD-Seg},
   year = {2025},
   url = {https://github.com/deepglint/MLCD_SEG},
